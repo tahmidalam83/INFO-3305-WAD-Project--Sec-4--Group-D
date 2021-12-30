@@ -4,11 +4,21 @@ This is the repository for the final project of Sec-4, Group D, INFO 3305 Web Ap
 PART 1: PROPOSAL FOR A WEB APPLICATION 
 
 
-Group Members Name	    Matric Number
+Group Members Details
+
+
 Tahmid Alam	            1827755
+
+
 Ahmed Bin Delowar	      1825969
+
+
 MD Imran Khan	          1514299
+
+
 MD MIJANUR RAHMAN	      1631849
+
+
 
 Title: Gym Manangement System
 
