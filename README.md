@@ -28,7 +28,9 @@ Title: Gym Manangement System
 Tahmid Alam	1827755: MVC Diagram, properly defining the views, controllers, routes and models. Including ERD for the database tables with one-to-many relationship, Mock Website design.
 
 Ahmed Bin Delowar	1825969: Features and functionalities, Sequence Diagram, Mock website design
+
 MD Imran Khan	1514299: Objective, Mock website design
+
 MD MIJANUR RAHMAN	1631849: Introduction, Mock Website design.
 
 
