@@ -117,4 +117,23 @@ navbar.php
 
 Reference: 
 https://app.creately.com/diagram/6UbOSmuWjIJ/edit
+
+
+Challenges while developing the application
+
+
+1.	Lack of resources was a main issue for us. We could hardly integrate all the resources but yet we tried our level best. 
+
+
+3.	All of the group members are not experienced in Laravel. Every one of us is first time user for Laravel application building. That’s why the journey was not easy.
+
+
+5.	The time duration was a bit short for the first time Laravel application builders and for us it takes long time to make a good project. But Alhamdulillah we have done our best. 
+
+
+7.	Online classes have made the communication among the group members tougher. It would be great if we could complete the project communicating in person. 
+
+
+9.	The knowledge of Laravel has to be explored more so that we can make better projects in future. 
+
  
