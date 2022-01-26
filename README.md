@@ -25,13 +25,14 @@ Title: Gym Manangement System
 
 <<<<< Work Responsibilities >>>>>
 
-Tahmid Alam	1827755: MVC Diagram, properly defining the views, controllers, routes and models. Including ERD for the database tables with one-to-many relationship, Mock Website design.
+Tahmid Alam	1827755: MVC Diagram, properly defining the views, controllers, routes and models. Including ERD for the database tables with one-to-many relationship, coding- models and the database sql, trainers.blade.php, users.blade.php
 
-Ahmed Bin Delowar	1825969: Features and functionalities, Sequence Diagram, Mock website design
+Ahmed Bin Delowar	1825969: Features and functionalities, Sequence Diagram, coding- controllers, login.blade.php, members.blade.php 
 
-MD Imran Khan	1514299: Objective, Mock website design
+MD Imran Khan	1514299: Objective, Coding- Routes and the relevant HTML sections, add_members.blade.php, manage_member.blade.php 
 
-MD MIJANUR RAHMAN	1631849: Introduction, Mock Website design.
+MD MIJANUR RAHMAN	1631849: Introduction, HTML home page, index.php, packages.blade.php, plan.blade.php 
+
 
 
 
@@ -56,17 +57,16 @@ This is to find and manage fitness gym membership plans.
 3.4.	Packages:
 Here where users can add packages to the list of services they provide to their members.
 
-3.5.	Members:
+3.5.	Add Members:
 This is the page where the members of the fitness gym are identified and managed.
+
+3.6. Members: 
+An updated members list
 
 3.6.	Trainers:
 This is the page where you can find and track a list of fitness gym trainers.
 
-3.7.	Membership Validity:
-This is the page where active members’ plans are identified and handled.
 
-3.8.	Schedule: 
-The page on which a user can schedule or save the anticipated date of a member’s arrival. This function is only for the use of fitness gym management to verify the number of planned members on a specific date.
 
 4.	MVC Diagram
 
@@ -74,41 +74,45 @@ The page on which a user can schedule or save the anticipated date of a member�
 
 The following files will be added in the Model- 
 
-login.php
+admins.pphp
+members.php
+plans.php
+trainers.php
+user.php
+users.php
 
-manage_members.php
 
-manage_schedule.php 
 
-manage_user.php 
 
 4.2.	View
 
-The following files will be added in the Model- 
+The following files will be added in the view folder- 
 
-login.php
+add_members.blade.php
+manage_member.blade.php
+manage_membership.blade.php
+packages.blade.php
+plans.blade.php
+registered_members.blade.php
+see_members.blade.php
+trainer.blade.php
+users.blade.php
 
-home.php
-
-view_member.php
-
-view_pdetails.php
-
-view_schedule.php 
-
-trainer.php
-
-header.php
-
-plans.php
 
 4.3.	Controller
 
 The following files will be added in the Model- 
 
-login.php
+adminController.php
+Controller.php
 
-navbar.php
+Routes: 
+
+The following are the files in routes folder: 
+api.php
+channels.php
+console.php
+web.php
 
 4.4.	ERD
 ![ERD](https://user-images.githubusercontent.com/95847851/151224669-6784b2db-e43a-4ab2-8174-8b9a2ceb4a4c.jpg) 
