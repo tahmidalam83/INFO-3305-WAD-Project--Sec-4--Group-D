@@ -111,9 +111,11 @@ login.php
 navbar.php
 
 4.4.	ERD
+![ERD](https://user-images.githubusercontent.com/95847851/151224669-6784b2db-e43a-4ab2-8174-8b9a2ceb4a4c.jpg) 
 
 5.	Sequence Diagram 
-
+![SD](https://user-images.githubusercontent.com/95847851/151224674-7dd0cfad-5a02-4712-9fba-0c0f063a964c.jpg)
+ 
 
 Reference: 
 https://app.creately.com/diagram/6UbOSmuWjIJ/edit
@@ -122,6 +124,34 @@ Screenshots of the Application
 
 ![1  login](https://user-images.githubusercontent.com/95847851/151223695-bc2e3ae7-b8ee-4920-b4e9-52ee9f5216fb.jpg) 
 Login page
+
+![2  Home](https://user-images.githubusercontent.com/95847851/151223698-333a9e26-b3f8-47e3-9f52-4fe33b41dbab.jpg)
+Home Page
+
+![3  Logout](https://user-images.githubusercontent.com/95847851/151223701-1acc1ade-6a2f-49e8-a33d-26941ce2655d.jpg)
+Logout option
+
+![4  nav bar](https://user-images.githubusercontent.com/95847851/151223705-b906c936-a683-49b1-9f8f-f0c0dcc7b18e.jpg)
+Navigation bar
+
+![5  Add member page](https://user-images.githubusercontent.com/95847851/151223709-468c7f64-97fb-4a1d-8607-6ce3cc8d3c78.jpg)
+Add Member Page
+
+![6  members list page](https://user-images.githubusercontent.com/95847851/151223713-d2350854-a848-422c-bf5c-cf63722b1397.jpg)
+Members page
+
+![7  plan](https://user-images.githubusercontent.com/95847851/151223686-ffaf9a04-062b-480b-9be1-9c3375921eca.jpg)
+Plan and Packages 
+
+![8  trainers page](https://user-images.githubusercontent.com/95847851/151223690-28cc6395-54aa-47e4-a461-aaac3348776a.jpg)
+Trainers Page
+
+![9  users](https://user-images.githubusercontent.com/95847851/151223692-6f871579-7784-4d7a-9399-0c16dd65d86f.jpg)
+Users Page
+
+
+
+
 
 
 Challenges while developing the application
