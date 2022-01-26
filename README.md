@@ -74,11 +74,16 @@ This is the page where you can find and track a list of fitness gym trainers.
 
 The following files will be added in the Model- 
 
-admins.pphp
+admins.php
+
 members.php
+
 plans.php
+
 trainers.php
+
 user.php
+
 users.php
 
 
@@ -89,13 +94,21 @@ users.php
 The following files will be added in the view folder- 
 
 add_members.blade.php
+
 manage_member.blade.php
+
 manage_membership.blade.php
+
 packages.blade.php
+
 plans.blade.php
+
 registered_members.blade.php
+
 see_members.blade.php
+
 trainer.blade.php
+
 users.blade.php
 
 
@@ -104,15 +117,23 @@ users.blade.php
 The following files will be added in the Model- 
 
 adminController.php
+
 Controller.php
+
 
 Routes: 
 
 The following are the files in routes folder: 
+
 api.php
+
 channels.php
+
 console.php
+
 web.php
+
+
 
 4.4.	ERD
 ![ERD](https://user-images.githubusercontent.com/95847851/151224669-6784b2db-e43a-4ab2-8174-8b9a2ceb4a4c.jpg) 
