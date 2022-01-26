@@ -118,6 +118,11 @@ navbar.php
 Reference: 
 https://app.creately.com/diagram/6UbOSmuWjIJ/edit
 
+Screenshots of the Application 
+
+![1  login](https://user-images.githubusercontent.com/95847851/151223695-bc2e3ae7-b8ee-4920-b4e9-52ee9f5216fb.jpg) 
+Login page
+
 
 Challenges while developing the application
 
