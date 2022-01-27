@@ -25,9 +25,9 @@ Title: Gym Manangement System
 
 <<<<< Work Responsibilities >>>>>
 
-Tahmid Alam	1827755: MVC Diagram, properly defining the views, controllers, routes and models. Including ERD for the database tables with one-to-many relationship, coding- models and the database sql, trainers.blade.php, users.blade.php
+Tahmid Alam	1827755: MVC Diagram, properly defining the views, controllers, routes and models. Including ERD for the database tables with one-to-many relationship, coding- models and the database sql, user authentification, trainers.blade.php, users.blade.php, registered_members.blade.php. 
 
-Ahmed Bin Delowar	1825969: Features and functionalities, Sequence Diagram, coding- controllers, login.blade.php, members.blade.php 
+Ahmed Bin Delowar	1825969: Features and functionalities, Sequence Diagram, coding- controllers, login.blade.php, see_members.blade.php, manage_membership.blade.php.  
 
 MD Imran Khan	1514299: Objective, Coding- Routes and the relevant HTML sections, add_members.blade.php, manage_member.blade.php 
 
